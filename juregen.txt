@@ -1,0 +1,1011 @@
+JUREGEN
+
+You are an outcast, convicted of a crime you may or may not have committed.
+You have been sentenced to be taken to the deepest cave of the Earth, to the
+foot of the Thousand Steps, and be flung into the Abyss.
+
+The sentence is carried out, and you fall.
+
+You fall for a timeless eternity, through Heaven and Hell, with the voices of
+insanity shrieking at you from the darkness.  They taunt you with dreams of
+torment and bliss, speaking fell prophecies and dire threats as the darkness
+begins to consume your very soul.
+
+At last you strike cold, unyielding rock.  You have fallen to the bottom of
+the bottomless, beneath the waking world into the unknown catacombs of dreams.
+
+You are lost and alone, helpless and blind in the dark.  Your friends and
+family have forsaken you.  Your people have made your name anathama, and
+erased your memory from their legends.  Your very gods shun you.
+
+But you are still alive.
+
+You must seek the Portal of Nightmares, master it, and bend it to your will.
+The Portal of Dreams shall then take you to your final goal... whatever that 
+may be.
+
+FEATURES/MECHANICS:
+RPG-ish, with quests and such.
+Tactics
+Weapon and magic skills
+Darkness
+Stat boosts and debuffs are mainly temporary
+Artifacts?  Fire Emblem-ish holy weapons?
+Shrooms, pools, luminous moss, LIGHT...  And kittens.
+Alignment?
+Don't irroversably screw people w/o telling them.  Cats, first-monster quest.
+WARN them first!
+Item generation varies based on race and class
+
+MP?  Ambient magic power + ability to harness it?  Control?
+
+Weight is in kg --increments of 10 grams
+1 move = 100 ticks, default.
+Each screen/level connects to some other level, regardless of type...
+But type does matter, for areas and special conditions.
+
+
+
+
+
+
+
+PEOPLE:
+Various notable characters that do... one thing or another.
+The Hermit: No particular class
+Ragnar: Fighter 
+Kane the Younger: Sage
+Hathor: Barbarian
+
+(These might just be statues of honor...)
+Siber: Human Summoner
+AT: Draconian Mage-knight
+Beausabre: Elf Transformationist
+Mjolnir: Dwarf Warrior
+Schwartz: Beastman Weaponsmith
+Starfyre: 
+(Just add in all the Thread players as secret uber-bosses?
+<Siber> Heh...
+<Siber> Scatter them around, but have each run before you can actually kill
+          them...
+<Siber> loot and exp is provided, of course.
+<Icefox> Run?  Why?
+<Siber> But if you want to really kill them for the massive reward, you've got
+          to go find where they live and fight them all at once.
+)
+
+QUEST IDEAS:
+Slay lizard
+Ant hive
+Find someone's crystal ball that has been stolen.
+
+
+Rescue someone
+Retrieve something
+Kill something
+Erm...  I guess that's the basis of ALL quests.
+
+
+
+DUNGEON FEATURES:
+Pools
+Doors
+Traps: They only appear on IMPORTANT things.
+Mushroom patches
+Altars
+Vaults (Tough, locked rooms full of loot)
+
+
+LOCATIONS:
+In approximate order of depth:
+*The Catacombs
+The catacombs are the place you start out, the foot of the Thousand Stairs.
+They are moderately large, and also relatively densely populated.  There are
+probably a fair number of little things around here.  It's the starter
+dungeon, sorta.
+Probably 5 levels in all.
+
+*Hermit's Hovel
+A small, run-down shack.  You meet the Hermit here, who at least gives you a
+bit of advice and a few handy items.
+
+*Spider City
+An entire town's worth of giant spiders.  This IS a town, and the spiders are
+sentient, even if they remain terribly alien and probably rather hostile.
+
+*Axis Mundi
+There are many locations, but the main and largest location is the Axis Mundi,
+the spindle upon which the world turns.  It takes the form of a whole smegload
+of dungeon levels, each pierced in the center by a pillar (of some sort.
+Gold?  Silver?  A tree?).  Most sub-locations are smaller, and branch off of
+the Axis in one way or another.
+If the Axis Mundi takes damage, it creates a magical wave that damages
+everything around it (hm, ranged attacks...)
+Probably 30-50 levels
+
+*The Tomb
+The tomb of some ancient warrior-king; this is as deep as people from the
+surface normally go.  Or have ever gone, depending on who you ask.
+There might be a whole longboat here.
+
+*Mechtown
+A bit like Spider City.  Automata galore.
+
+*Mech Pit
+I'm not quite sure yet whether this is a junkyard/graveyard, or a gladiatorial
+arena.  It might be some of both.  Where the forgotten go to die.
+3 levels
+
+*Pillar of Light
+If there's any safe haven, this is it.  You can rest here, and safely
+stockpile items.  It is merely a room with a big shaft of light in the center,
+and numerous alcoves along the sides.  It's probably accessible in several
+different ways.
+The altar to the Lady of Journeys is here.
+1 level
+
+*Dwarven Shrine
+
+*Faerie Pool
+This place will have a variety of different potential effects, all sorts of
+things.
+1 level
+
+*The Fire Mountain -- Muspelheim
+You might have to be fireproof to go here.
+
+*White Temple
+I have no idea.  Probably a quest involved some way or another.
+
+*Hall of Mirrors
+This... may just appear and dissapear in places at random.  There might be
+useful items in it.  Like the Faerie Pool, all sorts of strange things might
+happen here.
+
+*Frost
+
+*Bifrost
+The Rainbow Bridge.  This will take you to the Well of Urd, perhaps.  You
+might have trouble convincing Heimdal to let you pass.
+
+*Cavern of Cats
+More or less what it sounds like.  The Home of Cats.  You MIGHT find Krosp,
+the Emperor of All Cats here.
+
+*World Ocean
+You might find Jormungand here.
+
+*Shadow Realm
+
+*The Brink
+This is one level that is the border between the Axis Mundi, and the Pit.
+Dunno quite what it'll be like yet.
+1 level
+
+*The Well of Urd
+Secret.  You might find Norns here.  Convincing them to let you drink from the
+well and gain Knowledge MIGHT be impossible.
+1 level
+
+*The Pit -- Ginnungagap
+This is the bottom of the Axis Mundi, where the dragon Nidhoggr has
+burrowed and wriggled around, leaving all sorts of erratic spaces.  It is
+firey, poisonous, and intensely dangerous.
+About 10 levels
+
+*The End of the World
+This is the last vestage of the waking world.  Beyond this, you're on your
+own, and there is no turning back.
+
+*Roots of the World Tree
+Pretty much what it sounds like.  This is where you fight Nidhoggr.
+Probably 3 levels, very interlinked.
+
+*Dreams
+Beneath the roots of the World Tree, you find the Portal of Nightmares.  How
+you turn this into the Portal of Dreams, and what comes next, I don't know
+yet.
+One level.
+
+
+
+STATS:
+10 is "normal".  Cap depends on race; probably 20 default.
+Stat buffs and debuffs are generally temporary
+Strength
+Speed
+Toughness
+
+Intelligence
+Cleverness
+Willpower
+
+Power
+Finesse
+Resistance
+
+
+
+RACES:
+Human, elf, dark elf, dwarf, halfling, draconian, beastman, chaos/demon spawn,
+celestian, orc, troll, lizardman, gnome, naga, ogre, minotaur, centaur,
+ratling, catlin, barbarian, nomad...
+
+That's 22.  Cut it down.  Say, 10 or something.
+Can we make it... less tolkien-y?
+Actually, I'm kinda okay with having a fair number.  There are lots of good
+ideas out there.  I very very much like Crawl, because the races are very
+distinct a lot of the time.  There isn't a lot to seperate high elves from
+grey elves, or hill orcs from mountain dwarves, but there's nagas and merfolk
+and draconians and demonspawn and oh my...
+
+Human: Default
+Elf: More frail and magic-y, light-inclined
+Dark Elf: More frail and magic-y still, dark- and underground-inclined
+Dwarf: Tough and underground-adapted.  
+Draconian: Tough, they fly, are cold-blooded, and have a breath weapon
+
+Orc: Ugly and mean and durable.  Can be decently smart.  Moderately underground-adapted 
+Halfling: Charasmatic, dexterous,  
+Demonspawn: Tough, magic-y, and dark-inclined.  Takes lots of exp.  Dig.
+Celestial Bastard: Tough, magic-y, and light-inclined.  Takes lots of exp.  Wings.
+Beastman: Tough, dexy, sneaky.
+
+
+
+CLASSES:
+It's okay if some of these are better than others.
+
+*Goons: People who break things by hitting them.
+Fighter: Flexible, tough
+Archer: Ranged
+Berzerker: Big offense
+Bladedancer: Dual-wield, dexy
+Assassin: Stealthy, sneak-attack, poison
+Martial artist: Empty-handed
+
+*Shinies: People who break things by thinking hard about it.
+Wizard: Chaos/Sorcery
+Priest: Light/Dark
+Elementalist: Nature/Elemental
+Psion: Mental/Physical
+Alchemist: Any, makes items/potions/etc
+Sage: Any, JOAT
+
+*Confused: People who do both.
+Mage-knight: Chaos/Sorcery
+Paladin: Light/Dark
+Druid: Nature/Elemental
+Shifter: Mental/Physical, specializes in mental and teleportation effects
+Summoner: All, specializes in summoning help.
+Transformationist: All, specializes in combat enchantments.
+
+*Skill-y: People who are good not-breaking things.
+Rogue: Sneaks, steal, unlocks, etc.
+Smith: Strong, tough, makes/improves/fixes things.
+Woodsman: Survivalist
+Bard: Charisma and wit galore.
+Merchant: Buys low and sells high, knows much about items.
+Tourist: Does everything badly.
+
+
+
+INTRINSICS:
+Nightvision
+Resistance and immunity to various elements
+See Magic
+See Invisible (see that which cannot be seen?)
+Magic Cancellation (a la The Dark Company)
+
+
+X Resistance
+Where X can be ice, fire, poison, death, magic...
+It is not "you are immune", in the nethack sense.  But more "It does less to
+you" in the Crawl/ADOM sense.  Death resistance will manifest as resistance to
+necromantic magic, and a small chance of you not-dying when you take a lethal
+blow.
+
+
+ALIGNMENT:
+It's good/evil, not the traditional law/chaos.  That's all an anerisian ruse.
+There MAY be a law/chaos axis, but it'll be all neutral.
+Okay, say that good-evil is -100 to 100, like luck.  -100 is Perfect Evil, and
+100 is Perfect Good.  Now, which you end up being will affect the ending of
+the game, strongly... what happens when you master the Portal of Nightmares.
+If you're Modestly Evil or Modestly Good (5-90ish, say), you pass through it
+and return to the surface, Champion of the Abyss, for better or for worse.
+You have won, and you are free.
+Now, if you're the Ultimate Good or Evil, then instead of passing through the
+Portal of Dreams you become one with it, consume/are consumed by it, and are
+the Force of Good or Evil.  If you're Ultimately Neutral, on the other hand,
+you go right through it and out the other side as the Avatar of Balance, with
+all the powers of both.
+Or something.  I do have the distinct sense though, that the Balance result
+should be the hardest and most potent ending.
+
+Alignment also affects how deities will react to you.  Most deities are Good
+or Evil; there are rather few Neutral ones.  The Norns might be one, though.
+
+
+There are gods.  There are altars.
+
+Codes of conduct?
+- No cheat: will not try to scam people when buying/selling/trading items.
+- No kill: will try not to kill other members of the same race.
+- No kill any: will try not to kill other creatures of any race.
+- Honour elders.
+- No lie.
+- No steal.
+- No take: will not pick up objects from the ground.
+- Fight evil: will attack who it conceives to be its enemies on sight.
+- No retreat.
+- No surrender.
+- Caste: only speaks/interacts with others if they are of a similar social
+  standing.
+- No gluttony.
+- No greed: will give away items if they think others need them more.
+- No revenge.
+- No fighting.
+- Fair fighting: like the knights/samurai in Nethack.
+- Silent.
+- No trespassing: will understand not to enter others property uninvited, and
+  will also not like others to enter their property uninvited.
+- Poverty.
+- No blood: will not use weapons which draw blood (swords, &c.)
+- Monotheist: may only follow up to one god.
+- No magic. 
+
+-- Michael Blackney
+
+
+
+- No stimulants (haste, might, speed potions)
+- No poisoning others
+- No consorting with demons (summoning etc.)
+- No "death magic" (necromancy or whatever)
+- Vegetarianism (no meat)
+
+- No medicine (potions of healing or whatever) (like Christ.Scientists)
+- No going into debt (like Mormons)
+- No unnecessary cruelty (napalm on the living, explosives, "pain" spells)
+- No killing normal animals
+- No ESP / Telepathy / other psionic powers / effects
+
+-- Josh Fishman
+
+
+
+(From the classic religions)
+
+- Taking a pilgrimage walk (with restrains like unarmed or with heavy
+  religious
+  objects) to a distant location
+- Pray for at least "X" times a day (visit the church/temple each day/week)
+- Sacrifice to the gods an amount of food equal to the amount you eat (half
+  ration)
+- Self mutilation for breaking any of the religious rules
+- Crusade, kill EVERYONE with a different religion (and destroy their temples)
+- Scoring points for the afterlife, do quests for your god/priest, convert
+  people to your religion and build temples
+
+(From the New Age nonsense(with all respect ofcourse))
+
+- Only allow negative/positive energy in your aura (maintain a minimum distant
+  from evil/good creatures)
+- Eat only food you've grown yourself (don't pick up any food in the dungeon,
+  you don't know where it's been!)
+- Put skill points/experience into stats that don't have any benefits in the
+  game (like soul and spirit)
+- Don't use a mobile phone (or any other object that contains evil/good magic
+  energy)
+
+
+GODS:
+You don't deliberately /have/ a deity, generally.
+But you WILL run into small gods, who rule a little slice of the world...
+rather small, slightly desperate beings who rule shakily over their little
+domains.  Of course, some would be more powerful than others.
+What you do for them, and what they want, might be interesting.  Useful and
+troublesome, both.  You might even be able to kill them, thoretically.  Though
+it'll be really hard, and may not involve physically attacking them.
+
+Altars...  I dunno how they'll work.  Probably fairly similar to other
+roguelikes.
+If you destroy them, they'll be full of treasure, and you might get struck by
+lightning.
+
+Each god will have their good parts and bad parts.  I don't think that any
+will be entirely without flaw or without merit.  I feel like they often
+represent extremes, above all else.
+
+Gods:
+Lady of Journeys
+Lady Death
+Lord of Might
+Lord of Decay (Lord of the Flies?)
+Crusader
+Annihilation
+Muse and Wings of Light
+The Holder of Secrets
+
+
+
+
+LUCK:
+Luck matters.  It'll probably be a small fudge factor in monster generation,
+item drops, combat, spellcasting, learning...  It is a feature and a detail,
+not a core part of gameplay.
+Luck is a number between -100 and +100.  0 is average.
+
+Improving luck:
+Wait and it'll slowly increase toward 0
+Pet a cat
+Make gods happy
+Carry (eat?) four-leaf clovers
+Wield blessed items
+Catch a Luck Virus
+
+Abusing luck:
+Breaking a mirror (lots more, in the hall of mirrors)
+Piss off gods
+Wait and it'll slowly decrease toward 0 (though more slowly than increasing)
+Killing non-aggressive cats
+Wield cursed items
+Certain monster attacks may make you unlucky
+
+
+SKILLS:
+There are weapon skills and magic skills, as well as normal utility stuff.
+These are important, and may well be one of the main ways one grows more
+powerful.
+
+Okay.  All skills range from 0 to 10.  There are no arbitrary skill caps.
+However, there ARE learning bonuses.  A fighter is perfectly capable of
+learning the biggest spell ever, but it'll take a fuckton of work.  A wizard
+would do a lot better, since they've already put lots of effort into learning
+magic.
+
+Weapon skills:
+Dagger
+Sword
+Club
+Polearm
+Axe
+Unarmed
+
+Bow
+Thrown
+Firearms
+
+Magic skills:
+Light
+Dark
+Elemental
+Nature
+Chaos
+Sorcery
+Mental
+Physical
+
+
+Other skills:
+Armor
+Shield
+Two-handed weapons
+Stealth
+Digging
+Flying (Anyone can learn, a la Douglas Adams, but it can be real hard)
+
+Monster Lore?
+Herbalism?
+Fighting in general
+Tactics
+Magic lore
+Intuition
+Coup-de-grace/backstabbing
+
+
+
+
+
+
+COMBAT:
+You have two defensive stats, evasion and armor.  Armor is soak, evasion 
+reduces the enemy's to-hit.
+
+Wound penalties are not a good idea, in this case.
+
+The four most relevant things are: Dodge value, armor value, hit bonus, and 
+damage.
+Dodge value = 5*(speed/2 + cleverness/4 + equipment)
+Armor = toughness/4 + willpower/6 + equipment
+To hit = 5*(speed/2 + cleverness/4 + equipment) + 50
+Damage = strength/2 + intellegence/4 + equipment
+
+This is a tad worrisome as it makes speed and cleverness more important, and
+thus also dodge more advantagious than armor...
+
+Hit and dodge are percentages.
+
+
+
+FOOD:
+I honestly haven't thought about this much, because I don't see it influencing
+gameplay much.  There's a quite nice thread on rec.games.roguelike about the
+various issues of food and what it implies and how it's used:
+http://groups.google.com/group/rec.games.roguelike.development/browse_thread/thread/5afeb7ac25de48c5/64652849864d79b4#64652849864d79b4
+
+It has several roles, it seems:
+1) Food as resource management
+2) Food as timer (keep going down or you starve)
+3) Food as buff (Nethack intrinsics)
+
+ADOM is more or less 1 and 3...  Mostly 1 as time goes on, since you can buy a
+berjillion fried lizards and stomafilia and not worry too much about food from
+then on.
+Crawl is very much 1 and 2, with more 2.  Chunks rot fast and safe-to-eat
+chunks are not always readily avaliable, and there is no reliable source of
+food like ADOM.  There IS no 3, which is interesting, and makes intrinsics
+both less important and a lot harder to get.
+
+Hunger will probably happen, more or less in the traditional vein.  Getting
+hungry probably won't happen THAT fast, but...  It might actually be
+interesting to go without entirely and see how it works out.
+
+
+
+ITEMS:
+Charms: 
+Instead of wands and scrolls, we have charms.  Charms are objects imbued
+with magical power, with their own store of magic points.  They have one
+or possibly more spells attached to them, and use these spells with their
+own magic points.  Once these magic points are gone, the charm is generally
+useless; however, there are certain things that can refill a charm's power.
+Additionally, some very rare charms draw magic from their surroundings,
+and thus recharge themselves naturally.
+
+Skilled alchemists and weaponsmiths may be able to do other things with 
+charms, such as:
+Add and remove power points from them, destroy them to unleash all the power
+in a destructive wave, destroy them safely and siphon the excess magic from
+them, modify them, decompose them into magical reagents, 
+
+There are also non-artifact magical items, item-affixes, etc.
+Winged dagger, boomstick, Wand of Striking, traditional
+flame/frost/lightning/thunder (electricity vs. percussive damage), Good or
+Evil, favored by a particular deity...
+
+
+Slots: Head, neck, body, cloak, wrists, gloves, left/right finger, boots, 
+left/right hand, missile weapon, ammo, light source, 
+
+Ditch wrists?
+Do we want ADOM-style or Crawl-style inventories?  They actually show very
+different assumptions in game design; in ADOM, you WILL be wearing boots (and
+eventually Seven League Boots) while in Crawl, you can go through perfectly
+good games and not find any boots at all.  Crawl is actually very interesting,
+in the design goal that Nothing Is Necessary and There Is No Best Item.
+
+*Head:
+Snappy Fedora
+Pointy hat
+Hard hat
+Leather helm
+Iron helm
+Spiked Helmet
+Iron mask
+Noh mask
+Opera Mask
+
+*Amulets:
+Amulet of Undeath (you can go into negative hitpoints for a time)
+
+*Body:
+
+*Cloak:
+Cloak
+Leather cape
+Hooded cloak
+Elven cloak
+Dark cloak
+Shimmering cloak
+
+*Wrists:
+Bracers
+Bracelet
+
+*Gloves:
+Cloth gloves
+Leather gloves
+Chain gloves
+Gauntlets
+Wooly mittens (will acquire charge if you pet a cat with them?)
+
+*Rings:
+
+*Boots:
+Sandals
+Leather boots
+Steel-toe boots
+Boots of Butt Kicking
+
+*Weapons:
+(Dagger)
+Knife
+Dagger
+Stiletto
+(Sword)
+Short sword
+Long sword
+Bastard Sword
+Greatsword
+Zweihander
+Rapier
+(Axe)
+Hand axe
+Battle axe
+Headsman's Axe
+Greataxe
+(Polearm)
+Short spear
+Spear
+Trident
+Halberd
+Pike
+Staff
+(Club)
+Club
+Mace
+Morning Star
+Flail(?!!)
+War Hammer
+Greatclub
+
+
+*Shields:
+Small shield
+Large shield
+Tower shield
+Materials: Wood, iron, silver?
+Buckler?
+
+*Missile weapons:
+Short bow
+Long bow
+Great bow
+Crossbow
+Heavy Crossbow
+Ballista
+Derringer
+Pistol
+Musket
+Sling
+Blowgun
+Atlatl
+
+*Ammunition:
+Rock
+Pointy Rock
+Arrow
+Bolt
+Bullet and Powder
+Needle
+Dart
+Throwing axe 
+Javelin
+Boomerang
+Dagger
+Spear/Short spear
+
+*Light:
+Torch
+Everburning Torch
+Brass Lantern
+Magic Lamp
+Lightning Lamp
+Spirit Lantern
+
+*Charms:
+
+*Books:
+
+*Potions:
+Mercury
+Healing
+More Healing
+Most Healing
+Acid
+Fire
+Ice
+Compressed Air
+Oil
+Rage
+Ocean In A Bottle
+Poison
+Paralysis
+
+*Tools:
+Pickaxe
+Towel
+Bell
+Flute, drum, guitar, 
+Lycanthrope skins
+Eye-gem
+Empty Bottle
+Diamond Dust
+Lump of Sulfur
+Smoke Bomb
+Flint stone
+Lighter
+Grenade
+Rabbit's Foot
+Blinker Gem
+Fuzzy Animal (multiple uses; pet/familiar, can find way through mazes/to
+things, can be sliced open for divining...)
+
+
+
+ARTIFACTS
+Artifacts are special items, weapons, or whatever, that have powerful
+properties.  They are very rare, having been made by the gods themselves.
+Just how they work and what they do has yet to be decided, but they will
+probably be indestructable among other things.
+
+(Daggers)
+Sting
+Lifedrinker
+Assassin's Mark
+Hatred
+
+(Swords)
+Balmunk
+Mystletain
+Tyr's Hand
+Fenris's Fang (they're related somehow)
+
+(Polearms)
+Gaebolg
+Gungnir
+Cat's Fang (Vlad's Impaler?)
+Green Dragon Blade
+
+(Axes)
+Skullcleaver
+Choppa
+Godslayer (it MIGHT be nasty to you)
+Wolf Beil
+
+(Clubs)
+Big Stick With Nail
+Mjolnir
+Goremaul
+'Ead 'Itter
+
+(Ranged)
+Mistletoe Dart
+Killer Bow
+Firewand (a self-recharging charm?)
+Stormbolt (aka Storm Bolter of Rightousness)
+
+(Misc)
+Horn of Heimdall
+Cornucopia
+Cloak of Shadows
+Helm of the Sun
+Helm of the Moon
+
+
+
+MAGIC:
+There are eight realms of magic, in four opposing pairs.
+Light/Dark
+Chaos/Sorcery
+Nature/Elemental
+Mental/Physical
+
+  L
+ M|N
+C-*-S
+ E|P
+  D
+
+Anyone can potentially learn any magic.  However, spellcasters tend to 
+specialize in certain types; most choose a primary domain, in which their 
+casting abilities are more powerful, and they are more skilled at learning 
+that type.  So a Chaos Wizard could learn Mental magic, but wouldn't be as 
+good at it as at Chaos.
+They can also elect to choose no domain, in which case they're moderately good 
+at everything, and somewhat better than average in both their class's preferred 
+domains.  So said Generalist Wizard would be slightly better at everything than 
+the Chaos Wizard, and while the Chaos Wizard WOULD be kickass at breaking 
+stuff, they'd probably be suckiest at Sorcery.
+
+How the hell do you learn spells?  Just books?  I guess so.
+Alternatives: Learn them intrinsically and somewhat randomly (meditate, and a
+spell pops out), get given them via gods or items (occasionally)...  How you
+play the game might also affect what spell you get (a la El Goonish Shive,
+though I was really thinking of Iji's nano-thingamajigs)
+
+
+Chaos specialized:
+C: 10, S: 4, everything else 5
+Unspecialized:
+C: 8, S: 8, everything else 6
+
+Much more specialization?  Yeah.
+Chaos specialized:
+C: 10, S: 6, everything else 2
+Unspecialized:
+C: 8, S: 8, everything else 2
+
+
+Do spells increase with the power of the caster?  Makes sense.
+Is this based on level?  Stats?  Skills?  Spell-skill?
+Level and skills I think, with stats helping.
+
+Now...  HOW the hell do you learn spells???
+
+
+*Light: Buffs, strength, healing, 
+Light
+Smite
+Heal
+Strength
+Dispel Evil
+Detect Evil
+Turn Undead
+Protection
+Deathguard
+
+*Dark: Debuffs, weakness, draining, 
+Darkness
+Pain
+Harm
+Weakness
+Dispel Good
+Detect Good
+Blindness
+Raise Dead
+Dominate Undead
+Voodoo Doll (?)
+Deathtouch
+
+*Chaos: Twisting stuff and blowing it up.
+Firebolt
+Acid spray
+Doom bolt
+Flame blade
+Disrupt
+Insanity
+Mutation
+Destroy (items, stuff, all sorts of things)
+Unmake (magic)
+Hellflame
+
+*Sorcery: Shiny lights, pure magic, anti-magic...
+Magic missile
+Doppelganger
+Summon Stuff
+Reach
+Speed
+Slow
+Shield
+Shout
+Bedazzle
+Flash
+Confuse
+Disjunction
+Disintegration
+
+*Nature: Life, healing, animals, mud and junk, some elemental
+Summon Animal
+Sense
+Poison
+Heal poison
+Entangle
+Venom Bolt
+Regenerate
+Grow
+Shrink
+Windstorm
+Lightning Bolt
+
+*Elemental: Fire, ice, water, air
+Burning Hands
+Burning Feet
+Frost Bolt
+Sandblast
+Stoneskin
+Earth Lore
+Merge
+Wind wall
+Whirlwind
+Water Walking
+Metal Fires
+Elemental Fury
+
+*Mental: Confusion, illusion, mind-control
+Confusion ray
+Mirage
+Dominate Mind
+Psionic Blast
+Sense Minds
+Paralyze
+Blind
+Sixth Sense
+Terror
+
+*Physical: Dimensional, space-altering effects...
+Blink
+Door
+Teleport
+Twist
+Wall
+Shatter
+Pull
+Push
+Stop
+
+
+MONSTERS:
+*AI:
+We can have four states: aggressive, neutral, cowardly, and berzerk.
+Then we just have various thresholds (control and self-preservation come to
+mind) that judge when to switch from one state to another.
+
+There should be other states: Asleep, allied, confused, stunned...
+
+Do they talk to each other and learn resistances?  Do they share ammo?  Do
+they alert each other?  What kind of pathfinding do they do?
+
+*Bosses:
+Nidhoggr
+Jormungand
+Prince of Darkness
+Prince of Lightness
+Heimdal
+Skuld, Verthandi and Urd
+
+*Other:
+Pork Elemental: They oink.
+Grue: Only in darkness, have an insta-kill when unexpected?  Instakills are
+not okay, but you might get a REALLY good warning.
+Corpse Eater: Eats undead
+Living Rock: Comes in Pebble, Rock, and Boulder size, with varying threat
+Judit: Makes other monsters fast.
+Healer: Equipped with heal spells/items
+Dopefish: ???
+Silver Golem: Potions of mercury might dissolve these
+Jabberwock:
+Bandersnatch: 
+Clockwork Servant:
+Spider:
+Giant Spider: Can eat spiders to regain health
+Spider Queen: Can eat spiders or giant spiders to regain health
+Plague Beast:
+Gold Golem: Immune to acid, suceptable to heat
+Hand of the Mountain: It might trample you
+Gear Asp:
+Giant Bat:
+Rogue Dream:
+Nightmare:
+Troll:
+Rodent Of Unusual Size:
+Golem Steed:
+Warmech:
+Workmech:
+Bronze Soldier:
+Doom Bunny:
+
+
+
+
+
+IMPLEMENTATION:
+*Stat bar:
+Lets figure out what we want the stat bar to look like, first.
+0         1         2         4         5         6         7         
+0123456789012345678901234567890123456789012345678901234567890123456789
+MyNameHere...... St:XX Sp:XX To:XX In:XX Cl:XX Wi:XX Po:XX Fi:XX Re:XX
+HP:nnn/NNN MP:nnn/NNN  DV/AV:DV/AV  Exp:LL/%%  LOCALE  OTHER.....
+

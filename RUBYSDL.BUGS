@@ -1,0 +1,9 @@
+Documentation:
+"SDL::Surface#fillRect(x,y,w,h)
+SDL::Surface#fill_rect(x,y,w,h)
+This function performs a fast fill of the given rectangle with color."
+This doesn't mention the secret 5th argument where you specify the color.
+
+Having documented key constants would be nice.
+
+Why is SDL::Event.enableUNICODE all in capital letters?

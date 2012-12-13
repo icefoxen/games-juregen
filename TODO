@@ -1,0 +1,27 @@
+SOON:
+Inventory, pickup and drop items, equip and unequip.
+File full of items and monsters, if only to get the framework set up.
+Better keyboard input through SDL keysyms?
+Death messages...
+Run keys
+
+SOMEDAY:
+Death (of player)
+Line of sight and light and exploration
+AI (basic)
+Look at the source for other roguelikes, mook!
+
+
+
+
+input:
+
+
+Input and drawing:
+2) Stat drawer would be nice.
+3) We need a bunch of auxillary input things:
+  a) Y/n dialog
+  b) Direction dialog
+  c) Scroll buffer
+  d) select-from-list (ie for inventory)
+4) Weapon and magic skills
